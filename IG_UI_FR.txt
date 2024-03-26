@@ -1,0 +1,5 @@
+IGUI_FR = {
+    IGUI_FailedAttempt = "Pouah! Je n'y suis pas parvenu cette fois...",
+    IGUI_OnCooldown = "Je n'apprendrai rien d'autre avant un certain temps...",
+	IGUI_LowLevel = "Je ne suis pas encore assez doué en premiers secours pour cela.",
+}

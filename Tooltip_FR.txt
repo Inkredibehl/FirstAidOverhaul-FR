@@ -1,0 +1,6 @@
+Tooltip_FR = {
+	Tooltip_LowLevel = "<RGB:0.8,0,0> Niveau de premiers secours : ",
+	Tooltip_AdrenalineSyringe = "Redonne de l'énergie, mais induit de la faim et la soif.",
+	Tooltip_Syringe1 = "Guérit la maladie, mais pas l'infection Knox.",
+	Tooltip_Syringe2 = "Empêche la transformation de l'infection... à un coût élevé.",
+}

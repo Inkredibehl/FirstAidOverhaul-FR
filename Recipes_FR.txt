@@ -1,0 +1,10 @@
+Recipes_FR = {
+    Recipe_Clean_HighTierBandage = "Nettoyer Bandage Avancé",
+    Recipe_Make_HighTierBandage = "Fabriquer un Bandage Avancé",
+    Recipe_Make_AlcoholWipes = "Fabriquer des Lingettes alcoolisées",
+    Recipe_Make_Bandage = "Fabriquer un Bandage",
+    Recipe_Make_AlcoholBandage2 = "Fabriquer un Bandage Avancé",
+    Recipe_Make_AdrenalineSyringe = "Fabriquer une Seringue d'Adrénaline",
+    Recipe_Make_Syringe1 = "Fabriquer une Seringue de Doxycycline",
+    Recipe_Make_Syringe2 = "Fabriquer une Seringue d'Antizine",
+}

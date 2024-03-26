@@ -1,0 +1,8 @@
+ContextMenu_FR = {
+    ContextMenu_Practice_FirstAid = "S'entrainer aux Premiers Secours",
+    ContextMenu_Treatment_Option_1 = "Avec des Bandages",
+    ContextMenu_Treatment_Option_2 = "Avec des Aiguilles de suture",
+    ContextMenu_Treatment_Option_3 = "Etudier ce cadavre",
+    ContextMenu_Treatment_Option_4 = "Avec un scalpel"
+    ContextMenu_InjectSyringe = "Injecter"
+}

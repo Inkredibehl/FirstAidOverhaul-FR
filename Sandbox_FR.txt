@@ -1,0 +1,45 @@
+Sandbox_FR = {
+    Sandbox_FirstAidOverhaul = "First Aid Overhaul",
+
+	Sandbox_FirstAidOverhaul_FractureTreatmentLevel = "Niveau de traitement des fractures",
+	Sandbox_FirstAidOverhaul_FractureTreatmentLevel_tooltip = "A partir de ce niveau, le Joueur pourra soigner les fractures.",
+
+	Sandbox_FirstAidOverhaul_StitchingTreatmentLevel = "Niveau de traitement des coutures",
+	Sandbox_FirstAidOverhaul_StitchingTreatmentLevel_tooltip = "À partir de ce niveau, le joueur pourra recoudre les blessures.",
+
+	Sandbox_FirstAidOverhaul_FailureLevelThreshold = "Seuil de niveau de défaillance",
+	Sandbox_FirstAidOverhaul_FailureLevelThreshold_tooltip = "À partir de ce niveau, le joueur n'aura plus aucune chance d'échouer au traitement des blessures.",
+
+	Sandbox_FirstAidOverhaul_FailureChance = "Chance d'échec",
+	Sandbox_FirstAidOverhaul_FailureChance_tooltip = "Le risque d’échec lors du traitement des plaies.",
+	
+	Sandbox_FirstAidOverhaul_MaxDiseasePerWound = "Maladie maximale par blessure",
+	Sandbox_FirstAidOverhaul_MaxDiseasePerWound_tooltip = "Quel pourcentage de maladie vous pouvez contracter à partir d’une seule plaie infectée. ",
+
+	Sandbox_FirstAidOverhaul_InfectionDiseaseLimit = "Maladie limite des infections",
+	Sandbox_FirstAidOverhaul_InfectionDiseaseLimit_tooltip = "Quel pourcentage de maladie vous pouvez obtenir de toutes les plaies infectées combinées. ",
+
+	Sandbox_FirstAidOverhaul_PracticeCooldown = "Temps de recharge d’entraînement",
+	Sandbox_FirstAidOverhaul_PracticeCooldown_tooltip = "Combien de minutes de jeu avant de pouvoir pratiquer à nouveau les premiers secours sur les cadavres.",
+
+	Sandbox_FirstAidOverhaul_BandagePracticeXP = "XP pour la pratique du bandage",
+	Sandbox_FirstAidOverhaul_BandagePracticeXP_tooltip = "Combien d'XP le joueur reçoit en effectuant cette pratique sur un cadavre.",
+
+	Sandbox_FirstAidOverhaul_SuturePracticeXP = "XP pour la pratique des sutures",
+	Sandbox_FirstAidOverhaul_SuturePracticeXP_tooltip = "Combien d'XP le joueur reçoit en effectuant cette pratique sur un cadavre.",
+
+	Sandbox_FirstAidOverhaul_StudyPracticeXP = "XP pour étudier la pratique",
+	Sandbox_FirstAidOverhaul_StudyPracticeXP_tooltip = "Combien d'XP le joueur reçoit en effectuant cette pratique sur un cadavre.",
+
+	Sandbox_FirstAidOverhaul_ScalpelPracticeXP = "XP pour la pratique du scalpel",
+	Sandbox_FirstAidOverhaul_ScalpelPracticeXP_tooltip = "Combien d'XP le joueur reçoit en effectuant cette pratique sur un cadavre.",
+
+	Sandbox_FirstAidOverhaul_SpeedMultiplier = "Multiplicateur de vitesse",
+	Sandbox_FirstAidOverhaul_SpeedMultiplier_tooltip = "Rend le traitement des plaies plus rapide ou plus lent.",
+
+	Sandbox_FirstAidOverhaul_ShowDebugInfo = "Afficher les informations de débogage",
+	Sandbox_FirstAidOverhaul_ShowDebugInfo_tooltip = "Afficher les informations de débogage des blessures au niveau 8 ou supérieur.",
+	
+	Sandbox_FirstAidOverhaul_AntizinDoesntCure = "L'Antizin ne guérit pas",
+	Sandbox_FirstAidOverhaul_AntizinDoesntCure_tooltip = "Si activé, lorsque le joueur injecte de l'Antizin, cela réinitialisera leur minuteur d'infection Knox (pourcentage de zombification) au lieu de les guérir complètement. ",
+}

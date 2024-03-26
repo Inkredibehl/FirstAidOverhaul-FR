@@ -1,0 +1,8 @@
+ItemName_FR = {
+    ItemName_Base.AlcoholBandage2 = "Bandage Avancé",
+    ItemName_Base.AlcoholBandage2Dirty = "Bandage Avancé sale",
+    ItemName_Base.EmptySyringe = "Seringue vide",
+    ItemName_Base.AdrenalineSyringe = "Seringue d'Adrénaline",
+    ItemName_Base.Syringe1 = "Seringue de Doxycycline",
+    ItemName_Base.Syringe2 = "Seringue d'Antizine",
+}
