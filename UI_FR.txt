@@ -1,4 +1,4 @@
 UI_FR = {
-    UI_trait_MedicalPractitioner = "Médecin Praticien",
-    UI_trait_MedicalPractitionerDesc = "Les bandages sont beaucoup plus rapides que la normale et n'échouent pas lors du traitement des plaies.",
+    UI_trait_MedicalPractitioner = "MÃ©decin Practicien",
+    UI_trait_MedicalPractitionerDesc = "Les bandages sont beaucoup plus rapides que la normale et n'Ã©chouent pas lors du traitement des plaies.",
 }
